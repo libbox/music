@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/music-box/static/css/main.193356ff.chunk.css",
+    "main.js": "/music-box/static/js/main.246ae904.chunk.js",
+    "main.js.map": "/music-box/static/js/main.246ae904.chunk.js.map",
+    "runtime-main.js": "/music-box/static/js/runtime-main.03da83d8.js",
+    "runtime-main.js.map": "/music-box/static/js/runtime-main.03da83d8.js.map",
+    "static/js/2.b245a9a5.chunk.js": "/music-box/static/js/2.b245a9a5.chunk.js",
+    "static/js/2.b245a9a5.chunk.js.map": "/music-box/static/js/2.b245a9a5.chunk.js.map",
+    "index.html": "/music-box/index.html",
+    "precache-manifest.61deb47c0d5fc720a76f48fd32064b78.js": "/music-box/precache-manifest.61deb47c0d5fc720a76f48fd32064b78.js",
+    "service-worker.js": "/music-box/service-worker.js",
+    "static/css/main.193356ff.chunk.css.map": "/music-box/static/css/main.193356ff.chunk.css.map",
+    "static/js/2.b245a9a5.chunk.js.LICENSE.txt": "/music-box/static/js/2.b245a9a5.chunk.js.LICENSE.txt",
+    "static/js/main.246ae904.chunk.js.LICENSE.txt": "/music-box/static/js/main.246ae904.chunk.js.LICENSE.txt",
+    "static/media/antoine-barres.jpg": "/music-box/static/media/antoine-barres.dfbf459c.jpg",
+    "static/media/ayo-ogunseinde-2.jpg": "/music-box/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
+    "static/media/clem-onojeghuo-2.jpg": "/music-box/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
+    "static/media/clem-onojeghuo-3.jpg": "/music-box/static/media/clem-onojeghuo-3.ae11d928.jpg",
+    "static/media/clouds.png": "/music-box/static/media/clouds.61c4e000.png",
+    "static/media/creative-tim-white-slim2.png": "/music-box/static/media/creative-tim-white-slim2.df0cdbfb.png",
+    "static/media/daniel-olahh.jpg": "/music-box/static/media/daniel-olahh.facbbdb7.jpg",
+    "static/media/erik-lucatero-2.jpg": "/music-box/static/media/erik-lucatero-2.2051e0e8.jpg",
+    "static/media/fabio-mangione.jpg": "/music-box/static/media/fabio-mangione.f26c34bb.jpg",
+    "static/media/fog-low.png": "/music-box/static/media/fog-low.7812184c.png",
+    "static/media/joe-gardner-2.jpg": "/music-box/static/media/joe-gardner-2.76ff47ae.jpg",
+    "static/media/login-image.jpg": "/music-box/static/media/login-image.be9fa468.jpg",
+    "static/media/paper-kit.scss?v=1.2.0": "/music-box/static/media/nucleo-icons.f32ed5ad.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03da83d8.js",
+    "static/js/2.b245a9a5.chunk.js",
+    "static/css/main.193356ff.chunk.css",
+    "static/js/main.246ae904.chunk.js"
+  ]
+}
