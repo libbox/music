@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/music/static/css/main.9c650d0e.chunk.css",
-    "main.js": "/music/static/js/main.246ae904.chunk.js",
-    "main.js.map": "/music/static/js/main.246ae904.chunk.js.map",
-    "runtime-main.js": "/music/static/js/runtime-main.9809b085.js",
-    "runtime-main.js.map": "/music/static/js/runtime-main.9809b085.js.map",
-    "static/js/2.b245a9a5.chunk.js": "/music/static/js/2.b245a9a5.chunk.js",
-    "static/js/2.b245a9a5.chunk.js.map": "/music/static/js/2.b245a9a5.chunk.js.map",
+    "main.js": "/music/static/js/main.39877976.chunk.js",
+    "main.js.map": "/music/static/js/main.39877976.chunk.js.map",
+    "runtime-main.js": "/music/static/js/runtime-main.01faecc1.js",
+    "runtime-main.js.map": "/music/static/js/runtime-main.01faecc1.js.map",
+    "static/js/2.13f31d6f.chunk.js": "/music/static/js/2.13f31d6f.chunk.js",
+    "static/js/2.13f31d6f.chunk.js.map": "/music/static/js/2.13f31d6f.chunk.js.map",
     "index.html": "/music/index.html",
-    "precache-manifest.f33eddda23d24bde613d9b40c66872d1.js": "/music/precache-manifest.f33eddda23d24bde613d9b40c66872d1.js",
+    "precache-manifest.606b6f37cfaca3fe475c87372ea82179.js": "/music/precache-manifest.606b6f37cfaca3fe475c87372ea82179.js",
     "service-worker.js": "/music/service-worker.js",
     "static/css/main.9c650d0e.chunk.css.map": "/music/static/css/main.9c650d0e.chunk.css.map",
-    "static/js/2.b245a9a5.chunk.js.LICENSE.txt": "/music/static/js/2.b245a9a5.chunk.js.LICENSE.txt",
-    "static/js/main.246ae904.chunk.js.LICENSE.txt": "/music/static/js/main.246ae904.chunk.js.LICENSE.txt",
+    "static/js/2.13f31d6f.chunk.js.LICENSE.txt": "/music/static/js/2.13f31d6f.chunk.js.LICENSE.txt",
+    "static/js/main.39877976.chunk.js.LICENSE.txt": "/music/static/js/main.39877976.chunk.js.LICENSE.txt",
     "static/media/antoine-barres.jpg": "/music/static/media/antoine-barres.dfbf459c.jpg",
     "static/media/ayo-ogunseinde-2.jpg": "/music/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
     "static/media/clem-onojeghuo-2.jpg": "/music/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
@@ -28,9 +28,9 @@
     "static/media/paper-kit.scss?v=1.2.0": "/music/static/media/nucleo-icons.f32ed5ad.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.9809b085.js",
-    "static/js/2.b245a9a5.chunk.js",
+    "static/js/runtime-main.01faecc1.js",
+    "static/js/2.13f31d6f.chunk.js",
     "static/css/main.9c650d0e.chunk.css",
-    "static/js/main.246ae904.chunk.js"
+    "static/js/main.39877976.chunk.js"
   ]
 }
